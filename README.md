@@ -1,6 +1,6 @@
 <h1 align="center">Oi 👋, Eu sou a Ellen Cassia Rodrigues</h1>
 
-- Atualmente estou atualizando: **Java, ReactJS**
+- Atualmente estou atualizando: **Java, HTML, CSS, NoSQL, Javascript, SpringBoot Java**
 
 - E-mail para contato: **ellencassiamatos@gmail.com**
 
