@@ -49,7 +49,12 @@
 
 <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ellencassia&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
 
-<img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ellencassia&layout=compact&langs_count=8&theme=synthwave"/>
+<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ellencassia&layout=compact&langs_count=8&theme=synthwave"/>
 <a>
-    
 <p/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./images/github-user-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./images/github-user-light.svg" />
+  <img alt="github-snake" src="./images/github-user-dark.svg" />
+</picture>
