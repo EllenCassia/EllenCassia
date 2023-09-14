@@ -12,7 +12,7 @@
 </svg>
 </a>
 <a href="https://www.linkedin.com/in/ellen-cassia-880684266/" alt="Linkedin" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="90" height= "50" source=mailto&to=ellencassiamatos@gmail.com link=https://www.linkedin.com/in/hicaro-brasil-045548220//>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="90" height= "50" link="https://www.linkedin.com/in/ellen-cassia-880684266/"/>
 </a>
 </p>
 
